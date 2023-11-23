@@ -3,4 +3,4 @@ A repo featuring unique cybersecurity education and tools for both red and blue 
 
 If you would like your resource to be added here please email me with a description of the tool and why it is useful to matthewdeyn@protonmail.com.
 
-Thanks
+Many thanks
